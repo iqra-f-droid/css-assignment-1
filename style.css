@@ -1,0 +1,24 @@
+/* Q1: Box Styling */
+#box {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/* Q2: Headings Styling */
+.heading {
+  color: red;
+}
+
+/* Q3: Button Styling - Green */
+.green {
+  background-color: green;
+  color: white;
+ 
+}
+.blue {
+  background-color: blue;
+  color: white;
+  
+}
